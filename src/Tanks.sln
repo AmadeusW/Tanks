@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22129.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks", "Tanks\Tanks.csproj", "{88765C19-58B2-4C97-BD96-F72EB382A1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks.Tests", "..\..\..\Visual Studio 14\Projects\Tanks\Tanks.Tests\Tanks.Tests.csproj", "{0A4DAE57-E9A9-4975-94A2-8338BF9BEC03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88765C19-58B2-4C97-BD96-F72EB382A1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88765C19-58B2-4C97-BD96-F72EB382A1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88765C19-58B2-4C97-BD96-F72EB382A1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88765C19-58B2-4C97-BD96-F72EB382A1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4DAE57-E9A9-4975-94A2-8338BF9BEC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4DAE57-E9A9-4975-94A2-8338BF9BEC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4DAE57-E9A9-4975-94A2-8338BF9BEC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4DAE57-E9A9-4975-94A2-8338BF9BEC03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
